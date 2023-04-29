@@ -35,7 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/aroratanmay34/">
+<a href="https://github.com/TANMAY-AR0RA/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aroratanmay34&theme=tokyonight&show_icons=true"/>
   
   <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroratanmay34&hide=JupyterNotebook,html,css&theme=tokyonight"/>
