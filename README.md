@@ -4,9 +4,9 @@
 <h3>👨🏻‍💻 &nbsp;About Me :</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; I’m currently working as an IT Executive.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning and Artificial Intelligence.
-- 💞️ &nbsp; I’m looking to collaborate on any interesting subject.
+- 💼 &nbsp; I’m pursuing MS CS from UCF Orlando, FL.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning, and Artificial Intelligence.
+- 💞️ &nbsp; I want to collaborate on any interesting subject.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
