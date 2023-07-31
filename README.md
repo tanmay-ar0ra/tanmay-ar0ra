@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Tanmay Arora</h1>
-<h2 align="center"> A passionate full stack developer with great interest in Cloud Computing! </h2>
+<h2 align="center"> A passionate full stack developer with great interest in AI & ML </h2>
 
 <h3>👨🏻‍💻 &nbsp;About Me :</h3>
 
