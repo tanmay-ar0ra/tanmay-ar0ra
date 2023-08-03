@@ -36,9 +36,9 @@
 <br/>
 
 <a href="https://github.com/TANMAY-AR0RA/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANMAY-AR0RA&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANAY-AR0RA&theme=tokyonight&show_icons=true"/>
   
-  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&hide=JupyterNotebook,html,css&theme=tokyonight"/>
+  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANAY-AR0RA&hide=JupyterNotebook,html,css&theme=tokyonight"/>
 </a>
 
 <br/>
