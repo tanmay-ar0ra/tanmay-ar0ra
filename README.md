@@ -4,8 +4,8 @@
 <h3>👨🏻‍💻 &nbsp;About Me :</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; I’m pursuing MS CS from UCF Orlando, FL.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Machine Learning, and Artificial Intelligence.
+- 💼 &nbsp; I’m pursuing an MS CS degree from UCF Orlando, FL.
+- 🌱 &nbsp; Learning more about  the Design and analysis of Algorithms, Machine Learning, and Artificial Intelligence.
 - 💞️ &nbsp; I want to collaborate on any interesting subject.
 
 
