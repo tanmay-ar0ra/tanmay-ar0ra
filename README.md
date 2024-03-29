@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+repository;My+name+is+Tanmay+Arora)](https://git.io/typing-svg)
-<h1 align="center">Hey there! 👋, I'm Tanmay Arora</h1>
-<h2 align="center"> A passionate full stack developer with great interest in AI & ML </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+Welcome+to+my+repository)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)
+<h2 align="left"> A passionate full stack developer with great interest in AI & ML </h2>
 
 <h3>👨🏻‍💻 &nbsp;About Me :</h3>
 
