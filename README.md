@@ -31,24 +31,15 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-<br/>
 
 <a href="https://github.com/TANMAY-AR0RA/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANMAY-AR0RA&theme=tokyonight&show_icons=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANMAY-AR0RA&theme=tokyonight&show_icons=true"/>-->
   
-  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&hide=JupyterNotebook,html,css&theme=tokyonight"/>
+  <!--<img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&hide=JupyterNotebook,html,css&theme=tokyonight"/>-->
 </a>
 
-<br/>
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<h3 align="center">Email: </br>
-  aroratanmay34@gmail.com
-</h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> Email:&nbsp;  aroratanmay34@gmail.com </h3>
 
 
 
