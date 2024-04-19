@@ -31,6 +31,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://www.jetbrains.com/idea/)
 
 <a href="https://github.com/TANMAY-AR0RA/">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANMAY-AR0RA&theme=tokyonight&show_icons=true"/>-->
