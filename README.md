@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 &nbsp;About Me :</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; I’m pursuing an MS CS degree from UCF Orlando, FL.
+- 💼 &nbsp; I’m pursuing an MS CS degree from University of Central Florida, Orlando, FL.
 - 🌱 &nbsp; Learning more about Machine Learning and Artificial Intelligence.
 - 💞️ &nbsp; I want to collaborate on any interesting project or idea that you may have.
 
