@@ -39,7 +39,7 @@
   <!--<img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&hide=JupyterNotebook,html,css&theme=tokyonight"/>-->
 </a>
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me: </h3>
 <h3 align="center"> Email:&nbsp;  aroratanmay34@gmail.com </h3>
 
 
