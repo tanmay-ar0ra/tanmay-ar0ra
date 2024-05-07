@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; I’m pursuing an MS degree in Computer Science from the University of Central Florida, Orlando, FL.
-- 🌱 &nbsp; Learning more about Machine Learning and Artificial Intelligence.
+- 🌱 &nbsp; Passionate about Machine Learning and Artificial Intelligence.
 - 💞️ &nbsp; I want to collaborate on any interesting project or idea that you may have.
 
 
