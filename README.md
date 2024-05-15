@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+repository;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)
-<h2 align="left"> I am a passionate full stack developer with great interest in AI & ML. </h2>
+<h2 align="left"> I'm a passionate full stack developer with great interest in AI & ML. </h2>
 
 <h3>👨🏻‍💻 &nbsp;About Me :</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; I’m pursuing an MS degree in Computer Science from the University of Central Florida, Orlando, FL.
+- 💼 &nbsp; Pursuing an MS degree in Computer Science from the University of Central Florida, Orlando, FL.
 - 🌱 &nbsp; Passionate about Machine Learning and Artificial Intelligence.
 - 💞️ &nbsp; I want to collaborate on any interesting project or idea that you may have.
 
