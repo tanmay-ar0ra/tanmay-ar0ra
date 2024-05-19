@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+repository;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)
-<h2 align="left"> I'm a passionate full stack developer with great interest in AI & ML. </h2>
+<h2 align="left"> I'm a full stack developer with great interest in AI & ML. </h2>
 
 <h3>👨🏻‍💻 &nbsp;About Me:</h3>
 
