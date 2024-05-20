@@ -33,6 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://www.jetbrains.com/idea/)
 
+<!--GitHub stats theme credit: Anurag Hazra - "https://github.com/anuraghazra/github-readme-stats"-->
 <a href="https://github.com/TANMAY-AR0RA/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANMAY-AR0RA&hide=stars,prs&theme=ambient_gradient&show_icons=true"/>
   &nbsp; &nbsp;
