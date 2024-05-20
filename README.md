@@ -35,6 +35,7 @@
 
 <a href="https://github.com/TANMAY-AR0RA/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TANMAY-AR0RA&hide=stars,prs&theme=ambient_gradient&show_icons=true"/>
+  &nbsp; &nbsp;
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&theme=ambient_gradient"/>
 </a>
 
