@@ -40,7 +40,7 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&theme=ambient_gradient"/>
 </a>
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me: </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with me: </h3>
 <h3 align="center"> Email:&nbsp;  aroratanmay34@gmail.com </h3>
 
 
