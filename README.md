@@ -45,7 +45,7 @@
 
 
 
-<h3 align="center"> LinkedIn 📫 </h3>
+<h3 align="center"> LinkedIn: 📫 </h3>
 <!--<br /> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/tanmay--arora/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
