@@ -40,13 +40,8 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&theme=ambient_gradient"/>
 </a>
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with me: </h3>
-<h3 align="center"> Email:&nbsp;  aroratanmay34@gmail.com </h3>
+<h3 align="left"> 🤝🏻 &nbsp;Connect with me: </h3>
+<h3 align="left"> 📫 Email:&nbsp;  aroratanmay34@gmail.com </h3>
 
-
-
-<h3 align="center"> LinkedIn: 📫 </h3>
-<!--<br /> -->
-<p align="center">
 <a href="https://www.linkedin.com/in/tanmay--arora/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+
