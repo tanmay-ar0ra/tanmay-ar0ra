@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Passionate about Machine Learning and Artificial Intelligence.
 - 💫 &nbsp; Want to collaborate on any interesting project or idea that you may have.
 
-support
+
 <h3> 🛠 &nbsp;Tech Stack:</h3>
 
 - 💻 &nbsp;
