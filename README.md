@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+repository;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)
-<h2 align="left"> I'm a software developer interested in Cloud, Automation, AI, and ML. </h2>
+<h2 align="left"> I'm a Software developer interested in Cloud, Automation, AI, and ML. </h2>
 
 <h3>👨🏻‍💻 &nbsp;About me:</h3>
 
