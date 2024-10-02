@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Pursuing Masters degree in Computer Science from the University of Central Florida, Orlando, FL.
 - 🌱 &nbsp; Passionate about Machine Learning and Artificial Intelligence.
-- 💫 &nbsp; Want to collaborate on any interesting project or idea that you may have.
+- 💫 &nbsp; Contact me if you want to collaborate on any interesting project or idea that you may have.
 
 
 <h3> 🛠 &nbsp;Tech stack:</h3>
