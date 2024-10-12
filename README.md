@@ -5,8 +5,9 @@
 <h3>👨🏻‍💻 &nbsp;About me:</h3>
 
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions. -->
-- 💼 &nbsp; Pursuing Masters degree in Computer Science from the University of Central Florida, Orlando, FL.
 <!-- - 🌱 &nbsp; Passionate about.-->
+- 💼 &nbsp; Pursuing Masters degree in Computer Science from the University of Central Florida, Orlando, FL.
+- 🏢 &nbsp; Currently working as a Cloud Engineering Intern with UCF IT. 
 - 💫 &nbsp; Contact me if you want to collaborate on any interesting project or idea that you may have.
 
 
