@@ -7,7 +7,7 @@
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions. -->
 <!-- - 🌱 &nbsp; Passionate about.-->
 - 💼 &nbsp; Pursuing Masters degree in Computer Science from the University of Central Florida, Orlando, FL.
-- 🏢 &nbsp; Currently working as a Cloud Engineering Intern with UCF IT. 
+- 🏢 &nbsp; Currently working as a Software Engineering Intern with UCF IT. 
 - 💫 &nbsp; Contact me if you want to collaborate on any interesting project or idea that you may have.
 
 
@@ -24,6 +24,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![SpringBoot](https://img.shields.io/badge/-springboot-333333?style=flat&logo=Spring-Boot)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
    <!--![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)-->
