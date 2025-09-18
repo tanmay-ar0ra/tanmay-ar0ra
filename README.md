@@ -6,8 +6,8 @@
 
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions. -->
 <!-- - 🌱 &nbsp; Passionate about.-->
-💼 &nbsp; Masters Graduate in Computer Science from the University of Central Florida, Orlando, FL. <br>
 🏢 &nbsp; Currently working as a Software Engineer with UCF IT. <br>
+💼 &nbsp; Masters Graduate in Computer Science from the University of Central Florida, Orlando, FL. <br>
 💫 &nbsp; Contact me if you want to collaborate on any interesting project or idea that you may have.
 
 
