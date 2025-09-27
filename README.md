@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+Welcome+to+my+repository;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Tanmay+Arora)](https://git.io/typing-svg)-->
+
+<img alt="Hi, I'm Tanmay Arora" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Tanmay%20Arora" style="width: 100%;" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+repository;)](https://git.io/typing-svg)
 <h2 align="left"> I'm a Software developer, experienced in Full stack, Cloud, Automation, AI, and ML. </h2>
 
 <h3>👨🏻‍💻 &nbsp;About me:</h3>
