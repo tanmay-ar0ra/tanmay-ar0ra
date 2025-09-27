@@ -49,7 +49,9 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-AR0RA&theme=ambient_gradient"/>
 </a>
 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanmay-ar0ra&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-ar0ra" /> </p>
+
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with me: </h3>
 <!--<h3 align="center"> 📫 Email:&nbsp;  </h3>-->
