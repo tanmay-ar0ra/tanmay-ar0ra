@@ -55,9 +55,3 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanmay-ar0ra&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-ar0ra" /> </p>
 
-
-<!--<h3 align="center"> 🤝🏻 &nbsp;Connect with me: </h3>-->
-<!--<h3 align="center"> 📫 Email:&nbsp;  </h3>-->
-
-<!--<div align ="center"><a href="https://www.linkedin.com/in/tanmay--arora/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></div>-->
-
